@@ -26,8 +26,9 @@
 
 ### 🧰 Tech Stack
 **Languages:** Python · SQL · HTML/CSS  
-**Data:** Pandas · NumPy · MySQL · Matplotlib . Tableau 
-**Web/Tools:** Django · Git · Power Automate
+**Data:** Pandas · NumPy · MySQL · Tableau · Matplotlib  
+**Web/Tools:** Django · Git · Replit · Power Automate
+
 
 ### ✉️ Contact
 - Email: stl.sigu@gmail.com  
