@@ -19,12 +19,12 @@
 - Building practical projects: analysis dashboards, ETL pipelines, and tiny AI agents.
 - I like challenges and building practical tools/projects.
 
-### 🚧 What I’m working on
+### 🛠️ What I’m working on
 - **Portfolio (live):** iterative deployment while I build.
 - **Spotify Artist Analytics:** data collection + EDA + simple insights.
 - **ETL Mini-Project:** from raw CSV/API → cleaned DB → visuals.
 
-### 🧰 Tech (focused set)
+### 🧰 Tech Stack
 **Languages:** Python · SQL · HTML/CSS  
 **Data:** Pandas · NumPy · MySQL · Matplotlib . Tableau 
 **Web/Tools:** Django · Git · Power Automate
