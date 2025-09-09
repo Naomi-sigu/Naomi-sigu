@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="left">Hi, I'm Naomi 🌻</h1>
 <p align="left">
-  Developer | Data Science & AI Learner | Nature + Campfire Enthusiast
+  Developer | Data Science & AI Learner | Nature + Outdoor Enthusiast
 </p>
 
 <!-- Short badges (keep it simple) -->
