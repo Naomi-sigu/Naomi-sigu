@@ -27,7 +27,7 @@ I enjoy spending time outdoors — camping, hiking, and exploring nature — whi
 ---
 
 ## 🔗 Connect
-- 🌐 Portfolio: *your link*  
-- 💼 LinkedIn: *your link*  
+- 🌐 Portfolio: https://naomi-sigu.github.io/Portfolio.O/
+- 💼 LinkedIn: https://www.linkedin.com/in/naomi-sigu/ 
 
-*Learning continuously and building with purpose.
+Learning continuously and building with purpose.
