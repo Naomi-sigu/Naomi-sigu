@@ -1,33 +1,56 @@
-# Hi, I’m Neema Sigu 👋
+# Hi, I’m Naomi Sigu 👋
+Aspiring Data Analyst & Python Developer focused on using data to understand problems and build practical solutions.
 
-I’m a **Data & Software Engineer** with a strong interest in building practical, scalable solutions using **Python, SQL, and modern web technologies**.
+My work sits at the intersection of **data analysis, backend development, and automation**. I enjoy working with Python, SQL, and data analysis tools to explore datasets, uncover insights, and build small systems that make information easier to use.
 
-My work focuses on combining solid backend engineering with data-driven thinking, and I’m currently expanding into **AI and automation** to solve real-world problems more efficiently.
+Currently building projects in data analysis, SQL querying, and automation workflows.
+---
+
+## 🛠 Tech Stack
+
+**Languages & Data**
+
+* Python
+* SQL
+
+**Tools & Frameworks**
+
+* Pandas, NumPy
+* Matplotlib / Seaborn
+* Django
+
+**Workflow**
+
+* Git & GitHub
+* Data cleaning & exploratory analysis
+* SQL-based data querying and reporting
 
 ---
 
-## 🛠️ Tech Stack
-- Python, SQL, JavaScript  
-- Django, React, Supabase
-- Data Analysis & Visualization  
-- AI & Automation Tools  
+## 📊 What I'm Working On
 
----
-
-## 📌 Current Focus
-- Full-stack project development  
-- Data engineering and analytics  
-- AI-assisted automation workflows  
+* Building **data analysis portfolio projects**
+* Practicing **SQL and data querying**
+* Strengthening **Python for data workflows**
+* Exploring **automation and AI-assisted tools**
 
 ---
 
 ## 🌿 Outside of Tech
-I enjoy spending time outdoors — camping, hiking, and exploring nature — which helps me stay focused, curious, and grounded.
+
+When I’m not coding or analyzing data, I enjoy **camping, hiking, and exploring nature**.
+Being outdoors keeps me curious and helps me think more creatively when solving problems.
 
 ---
 
 ## 🔗 Connect
-- 🌐 Portfolio: https://naomi-sigu.github.io/Portfolio.O/
-- 💼 LinkedIn: https://www.linkedin.com/in/naomi-sigu/ 
 
-Learning continuously and building with purpose.
+🌐 Portfolio
+https://naomi-sigu.github.io/Portfolio.O/
+
+💼 LinkedIn
+https://www.linkedin.com/in/naomi-sigu/
+
+---
+
+                    Always learning, building, and improving.
